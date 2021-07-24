@@ -1,4 +1,10 @@
 body{
-    background-color: gray;
+    background-color: black;
     padding: 30px;
+}
+h1{
+    text-align: center;
+    text-size-adjust: 40px;
+    margin: 20px;
+    color: white;
 }
