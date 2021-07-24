@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:black;
     padding: 30px;
 }
 h1{
@@ -7,4 +7,20 @@ h1{
     text-size-adjust: 40px;
     margin: 20px;
     color: white;
+}
+.div{
+    text-align: center;
+    color: white;
+    margin: 25px;
+}
+p{
+    text-align: justify;
+    color: yellow;
+    margin: 29px;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50%;
 }
